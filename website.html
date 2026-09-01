@@ -46,8 +46,15 @@ input{
 function sheldon() {
   let survey = prompt("do you like sheldihh magadih");
   let name = prompt("Thank you for ur time, what is your name?");
-  alert("thank you " + name + "dihh, your answers have been submitted")
-  document.title = "buh buh buh buh"
+  if (name && name.toLowerCase() === "vlad") {
+    alert("ou ou ou vladihhh ou ou ou");
+  } else if (name) {
+    alert("thank you " + name + "dihh, your answers have been submitted");
+  } else {
+    alert("thank you dihh, your answers have been submitted");
+  }
+
+  document.title = "buh buh buh buh";
 }
 
 
