@@ -8,10 +8,12 @@ an elite, high performance, hyper optimized web portal designed with raw monospa
 
 ## features
 
-* **high contrast visual aesthetic:** engineered with 50px yellow monospace typography, purple shadowed hyperlinks, and red bordered green inputs for maximum contrast.
-* **interactive sheldon engine:** advanced prompt driven feedback pipeline executing user survey queries.
-* **zero dependencies:** raw inline styling and native js for zero latency execution.
-* **hardware operations:** integrated direct gateway to retrieve RAM and OPSEC apps.
+opsec
+ram installer
+opsec creator
+amazing wallpaper
+best website
+foss
 
 ---
 
