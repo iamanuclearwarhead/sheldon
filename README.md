@@ -17,7 +17,7 @@ foss
 
 ---
 
-## install   
+## install    
 
 ### arch
 
